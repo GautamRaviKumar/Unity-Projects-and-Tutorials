@@ -1,0 +1,15 @@
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment4\ProgrammingAssignment4\bin\Debug\net6.0\ProgrammingAssignment4.exe
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment4\ProgrammingAssignment4\bin\Debug\net6.0\ProgrammingAssignment4.deps.json
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment4\ProgrammingAssignment4\bin\Debug\net6.0\ProgrammingAssignment4.runtimeconfig.json
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment4\ProgrammingAssignment4\bin\Debug\net6.0\ProgrammingAssignment4.dll
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment4\ProgrammingAssignment4\bin\Debug\net6.0\ProgrammingAssignment4.pdb
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\net6.0\ProgrammingAssignment4.csproj.AssemblyReference.cache
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\net6.0\ProgrammingAssignment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\net6.0\ProgrammingAssignment4.AssemblyInfoInputs.cache
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\net6.0\ProgrammingAssignment4.AssemblyInfo.cs
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\net6.0\ProgrammingAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\net6.0\ProgrammingAssignment4.dll
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\net6.0\refint\ProgrammingAssignment4.dll
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\net6.0\ProgrammingAssignment4.pdb
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\net6.0\ProgrammingAssignment4.genruntimeconfig.cache
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\net6.0\ref\ProgrammingAssignment4.dll

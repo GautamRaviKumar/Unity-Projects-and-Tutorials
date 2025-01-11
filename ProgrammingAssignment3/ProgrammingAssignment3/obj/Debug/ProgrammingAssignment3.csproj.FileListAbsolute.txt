@@ -1,0 +1,8 @@
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\ProgrammingAssignment3.exe.config
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\ProgrammingAssignment3.exe
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\ProgrammingAssignment3.pdb
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\ProgrammingAssignment3.csproj.AssemblyReference.cache
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\ProgrammingAssignment3.csproj.SuggestedBindingRedirects.cache
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\ProgrammingAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\ProgrammingAssignment3.exe
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\ProgrammingAssignment3.pdb
