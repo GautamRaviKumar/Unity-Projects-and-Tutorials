@@ -1,0 +1,10 @@
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\ProgrammingAssignment1.exe.config
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\ProgrammingAssignment1.exe
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\ProgrammingAssignment1.pdb
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\LinkedLists.dll
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.csproj.AssemblyReference.cache
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.csproj.CopyComplete
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.exe
+C:\Users\gauta\Documents\Unity\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.pdb
